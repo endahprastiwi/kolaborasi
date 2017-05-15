@@ -1,3 +1,3 @@
 Endah Prastiwi (upstream)
-Amanu Alatibi (kontributor)
+Amanu Alatibi 15410203 (kontributor)
 Tri Hargianto (kontributor)
