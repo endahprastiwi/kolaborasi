@@ -1,3 +1,6 @@
-Endah Prastiwi (upstream)
-Amanu Alatibi 15410203 (kontributor)
-Tri Hargianto (kontributor)
+Nama Kelompok
+===
+
+- Endah Prastiwi (upstream)
+- Amanu Alatibi 15410203 (kontributor)
+- Tri Hargianto (kontributor)
